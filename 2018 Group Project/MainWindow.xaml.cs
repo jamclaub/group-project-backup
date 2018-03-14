@@ -24,6 +24,7 @@ namespace _2018_Group_Project
         {
             InitializeComponent();
             // just an attempt to push to make sure that it works
+            // after update
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
