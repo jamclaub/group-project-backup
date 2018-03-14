@@ -23,6 +23,7 @@ namespace _2018_Group_Project
         public MainWindow()
         {
             InitializeComponent();
+            // just an attempt to push to make sure that it works
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
