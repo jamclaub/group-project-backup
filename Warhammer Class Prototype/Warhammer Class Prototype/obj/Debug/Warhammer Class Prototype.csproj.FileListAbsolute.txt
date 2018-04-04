@@ -1,0 +1,7 @@
+C:\Users\ianmi\source\repos\Warhammer Class Prototype\Warhammer Class Prototype\bin\Debug\Warhammer Class Prototype.exe.config
+C:\Users\ianmi\source\repos\Warhammer Class Prototype\Warhammer Class Prototype\bin\Debug\Warhammer Class Prototype.exe
+C:\Users\ianmi\source\repos\Warhammer Class Prototype\Warhammer Class Prototype\bin\Debug\Warhammer Class Prototype.pdb
+C:\Users\ianmi\source\repos\Warhammer Class Prototype\Warhammer Class Prototype\obj\Debug\Warhammer Class Prototype.csprojResolveAssemblyReference.cache
+C:\Users\ianmi\source\repos\Warhammer Class Prototype\Warhammer Class Prototype\obj\Debug\Warhammer Class Prototype.csproj.CoreCompileInputs.cache
+C:\Users\ianmi\source\repos\Warhammer Class Prototype\Warhammer Class Prototype\obj\Debug\Warhammer Class Prototype.exe
+C:\Users\ianmi\source\repos\Warhammer Class Prototype\Warhammer Class Prototype\obj\Debug\Warhammer Class Prototype.pdb
