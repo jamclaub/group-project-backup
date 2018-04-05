@@ -56,11 +56,8 @@
     </ApplicationDefinition>
     <Compile Include="ConcreteUnitcreator.cs" />
     <Compile Include="FileManager.cs" />
-    <Compile Include="Infantry.cs" />
     <Compile Include="Unitcreator.cs" />
-    <Compile Include="Units.cs" />
-    <Compile Include="Vehicles.cs" />
-    <Compile Include="Walkers.cs" />
+    <Compile Include="UnitManager.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

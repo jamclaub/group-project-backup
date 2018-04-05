@@ -13,5 +13,7 @@ namespace _2018_Group_Project
     /// </summary>
     public partial class App : Application
     {
+
+        
     }
 }

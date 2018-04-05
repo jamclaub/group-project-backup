@@ -24,7 +24,7 @@ namespace Warhammer_Class_Prototype
 
             menuDriver(userInfo);
         }
-
+/*
        static void menuDriver(unitManager userInfo)
         {
             Console.WriteLine("Please enter a command");
@@ -95,7 +95,7 @@ namespace Warhammer_Class_Prototype
         }
 
     }
-
+    */
 
     class unitManager
     {

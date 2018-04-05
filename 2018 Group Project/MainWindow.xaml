@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_2018_Group_Project"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="432" Width="819">
     <Grid Background="#FFC3C3C3" Margin="0,0,-302,-83">
         <TextBox x:Name="TextBox" HorizontalAlignment="Left" Height="382" Margin="444,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="365"/>
         <ComboBox x:Name="Infantry" HorizontalAlignment="Left" VerticalAlignment="Top" Width="91"  Height="22" Margin="10,4,0,0" >
@@ -81,6 +81,9 @@
         </ComboBox>
         <TextBlock HorizontalAlignment="Left" Margin="115,10,0,0" TextWrapping="Wrap" Text="Vehicles" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="240,10,0,0" TextWrapping="Wrap" Text="Walkers" VerticalAlignment="Top"/>
+        <Button x:Name="makelist" Content="Create new list" HorizontalAlignment="Left" Margin="32,66,0,0" VerticalAlignment="Top" Width="91" MouseDoubleClick="makelist_Click"/>
+        <Button x:Name="printarmy" Content="Print army" HorizontalAlignment="Left" Margin="226,130,0,0" VerticalAlignment="Top" Width="75" Click="printarmy_Click"/>
+        <Button x:Name="SicaranVenatorTankDestroyer" Content="Sicaran Venator Tank Destroyer" HorizontalAlignment="Left" Margin="140,66,0,0" VerticalAlignment="Top" Width="211" Click="SicaranVenatorTankDestroyer_Click" MouseDoubleClick="addSicaranVenatorTankDestroyer_Click"/>
 
     </Grid>
 </Window>
