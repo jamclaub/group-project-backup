@@ -69,6 +69,7 @@
             <Button x:Name="LegionThunderhawkGunship" Content="Legion Thunderhawk Gunship" HorizontalAlignment="Left" VerticalAlignment="Top" Width="245" Click="LegionThunderhawkGunship_Click" MouseDoubleClick="addLegionThunderhawkGunship_Click"/>
             <Button x:Name="LegionMastodonHeavyAssaultTransport" Content="Legion Mastodon Heavy Assault Transport" HorizontalAlignment="Left" VerticalAlignment="Top" Width="245" Click="LegionMastodonHeavyAssaultTransport_Click" MouseDoubleClick="addLegionMastodonHeavyAssaultTransport_Click"/>
             <Button x:Name="SokarPatternStormbird" Content="Sokar Pattern Stormbird" HorizontalAlignment="Left" VerticalAlignment="Top" Width="245" Click="SokarPatternStormbird_Click" MouseDoubleClick="addSokarPatternStormbird_Click"/>
+            <Button x:Name="SicaranVenatorTankDestroyer" Content="Sicaran Venator Tank Destroyer" HorizontalAlignment="Left" VerticalAlignment="Top" Width="211" Click="SicaranVenatorTankDestroyer_Click" MouseDoubleClick="addSicaranVenatorTankDestroyer_Click"/>
         </ComboBox>
         <ComboBox HorizontalAlignment="Left" Margin="231,4,0,0" VerticalAlignment="Top" Width="120">
             <Button x:Name="LegionDreadnoughtTalon" Content="Legion Dreadnought Talon" HorizontalAlignment="Left" VerticalAlignment="Top" Width="256" Click="LegionDreadnoughtTalon_Click" MouseDoubleClick="addLegionDreadnoughtTalon_Click"/>
@@ -81,9 +82,8 @@
         </ComboBox>
         <TextBlock HorizontalAlignment="Left" Margin="115,10,0,0" TextWrapping="Wrap" Text="Vehicles" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="240,10,0,0" TextWrapping="Wrap" Text="Walkers" VerticalAlignment="Top"/>
-        <Button x:Name="makelist" Content="Create new list" HorizontalAlignment="Left" Margin="32,66,0,0" VerticalAlignment="Top" Width="91" MouseDoubleClick="makelist_Click"/>
-        <Button x:Name="printarmy" Content="Print army" HorizontalAlignment="Left" Margin="226,130,0,0" VerticalAlignment="Top" Width="75" Click="printarmy_Click"/>
-        <Button x:Name="SicaranVenatorTankDestroyer" Content="Sicaran Venator Tank Destroyer" HorizontalAlignment="Left" Margin="140,66,0,0" VerticalAlignment="Top" Width="211" Click="SicaranVenatorTankDestroyer_Click" MouseDoubleClick="addSicaranVenatorTankDestroyer_Click"/>
+        <Button x:Name="makelist" Content="Create new list" HorizontalAlignment="Left" Margin="10,299,0,0" VerticalAlignment="Top" Width="91" MouseDoubleClick="makelist_Click"/>
+        <Button x:Name="printarmy" Content="Print army" HorizontalAlignment="Left" Margin="115,299,0,0" VerticalAlignment="Top" Width="75" Click="printarmy_Click"/>
 
     </Grid>
 </Window>

@@ -26,7 +26,6 @@ namespace _2018_Group_Project
         public MainWindow()
         {
             InitializeComponent();
-            
         }
 
         private void makelist_Click(object sender, RoutedEventArgs e) { newlist = new unitManager(); TextBox.Text = "New list made"; }
